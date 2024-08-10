@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Initial"}
+{"version":"1.0.0", "notes":"Initial", "discordLink":"https://discord.gg/yflip"}
