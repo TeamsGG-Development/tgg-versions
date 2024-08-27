@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Seatbelt issue fix; Chaser support", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.3", "notes":"Fuel icon calculations fix", "discordLink":"https://discord.gg/teamsgg"}
