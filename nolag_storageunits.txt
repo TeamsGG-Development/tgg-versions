@@ -1,0 +1,1 @@
+{"version":"2.0.8", "notes":"Fixed transfer issue; Fixed lock issue", "discordLink":"https://discord.gg/teamsgg"}
