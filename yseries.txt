@@ -1,1 +1,1 @@
-{"version":"0.99.0", "notes":"Testing", "discordLink":"https://discord.gg/teamsgg"}+
+{"version":"0.99.0", "notes":"Testing", "discordLink":"https://discord.gg/teamsgg"}
