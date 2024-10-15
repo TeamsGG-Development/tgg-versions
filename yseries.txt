@@ -1,1 +1,1 @@
-{"version":"0.99.1", "notes":"Instashots Live Broadcasting. PromoHub app. Small functionalities & bug fixes.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.1", "notes":"Fixed camera rotate. Fixed duplicated context menu on Live click. Other small improvements.", "discordLink":"https://discord.gg/teamsgg"}
