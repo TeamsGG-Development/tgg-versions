@@ -1,1 +1,1 @@
-{"version":"0.99.1", "notes":"Fixed camera rotate. Fixed duplicated context menu on Live click. Other small improvements.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.2", "notes":"Fixed camera when using Fivemange. Other bugfixes. For more information, find the changelog in your discord.", "discordLink":"https://discord.gg/teamsgg"}
