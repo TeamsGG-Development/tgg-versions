@@ -1,1 +1,1 @@
-{"version":"0.99.2", "notes":"Fixed camera when using Fivemange. Other bugfixes. For more information, find the changelog in your discord.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.3", "notes":"Fixed camera when rotating in selfie mode. Fixed invisible more actions menu when phone layout is scaled Other bugfixes. For more information, find the changelog in your discord.", "discordLink":"https://discord.gg/teamsgg"}
