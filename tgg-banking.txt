@@ -1,1 +1,1 @@
-{"version":"0.99.1", "notes":"Added cards functionality.  For more information, find the changelog in our discord.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.3", "notes":"Added cards & accounts creation limit. Added & Improved exports.", "discordLink":"https://discord.gg/teamsgg"}
