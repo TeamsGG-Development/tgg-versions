@@ -1,1 +1,1 @@
-{"version":"1.1.4", "notes":"Settings overhaul. Added options to customize all UI elements & options. Fixed framework issues on load.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.1.5", "notes":"Settings overhaul. Added options to customize all UI elements & options. Fixed framework issues on load.", "discordLink":"https://discord.gg/teamsgg"}
