@@ -1,1 +1,1 @@
-{"version":"0.99.7", "notes":"Added `config.style.lua` to allow UI colors customization. Added to spending chart. Admin menu enhancements.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.1", "notes":"Official release. Improvements & Bugfixes.", "discordLink":"https://discord.gg/teamsgg"}
