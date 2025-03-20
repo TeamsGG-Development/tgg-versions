@@ -1,1 +1,1 @@
-{"version":"0.99.7", "notes":"Sim Cards as item. Session & Offline notifications. Notifications overhaul. Switch device from settings. For more information, find the changelog in our discord.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.8", "notes":"Camera zoom. Social apps enhancements. Added more logs. For more information, find the changelog in our discord.", "discordLink":"https://discord.gg/teamsgg"}
