@@ -1,1 +1,1 @@
-{"version":"1.3.3", "notes":"IMPORTANT UPDATE! Fixed force payments & added security checks to prevent security vulnerabilities.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.3.4", "notes":"IMPORTANT UPDATE! Fixed force payments & added security checks to prevent security vulnerabilities.", "discordLink":"https://discord.gg/teamsgg"}
