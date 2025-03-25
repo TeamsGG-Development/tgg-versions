@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Added suport for qs-inventory. Fixed an issue on ESX where the business account owner cannot create a business card.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.4", "notes":"Fixed an issue on ESX where the business account owner cannot create a business card.", "discordLink":"https://discord.gg/teamsgg"}
