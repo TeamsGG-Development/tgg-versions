@@ -1,1 +1,1 @@
-{"version":"0.99.83", "notes":"Added exports for Boomer Phone - https://teamsgg.dev/scripts/boomer", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.84", "notes":"Added exports for Boomer Phone - https://teamsgg.dev/scripts/boomer", "discordLink":"https://discord.gg/teamsgg"}
