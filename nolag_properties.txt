@@ -1,1 +1,1 @@
-{"version":"2.2.1", "notes":"UI/UX Improvements to creation & admin menu & Several issues fixed", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.3.0", "notes":"Redesigned most of the UI components and improved the UX. Added more options in the config. And other improvements and fixes described in #changelog", "discordLink":"https://discord.gg/teamsgg"}
