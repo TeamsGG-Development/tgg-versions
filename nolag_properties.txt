@@ -1,1 +1,1 @@
-{"version":"2.3.1", "notes":"Updated the doorlock to use the ox_lib grid system, fixed UI issues, added new configurations, and other improvements and fixes described in #changelog", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.3.2", "notes":"Fixed Renters tab crash and rent termination; enhanced money‑handling with optional reason parameter", "discordLink":"https://discord.gg/teamsgg"}
