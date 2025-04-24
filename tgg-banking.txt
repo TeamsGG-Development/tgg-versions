@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Improved logic for handling payments between offline players. Add more security checks.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.7", "notes":"Minor bug fixes.", "discordLink":"https://discord.gg/teamsgg"}
