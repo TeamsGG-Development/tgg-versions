@@ -1,1 +1,1 @@
-{"version":"0.99.84", "notes":"Added exports for Boomer Phone - https://teamsgg.dev/scripts/boomer", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"0.99.85", "notes":"Important security update! Added a way for companies to block specific numbers to prevent trolls.", "discordLink":"https://discord.gg/teamsgg"}
