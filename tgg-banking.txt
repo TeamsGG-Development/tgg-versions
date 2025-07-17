@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Minor bug fixes.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.1.0", "notes":"Added admin ability to delete society accounts, target support for cards, PIN display on card creation, and added compatibility with YSeries Phone new Banking App .", "discordLink":"https://discord.gg/teamsgg"}
