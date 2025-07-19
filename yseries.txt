@@ -1,1 +1,1 @@
-{"version":"0.99.88", "notes":"Important security update! Added a way for companies to block specific numbers to prevent trolls.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.0", "notes":"Phone Launch: Introduced battery and signal systems, loudspeaker, proximity audio, ringtones app and wallpapers app, a dating app, exclusive banking app(tgg-banking), and major UI and app enhancements.", "discordLink":"https://discord.gg/teamsgg"}
