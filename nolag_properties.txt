@@ -1,1 +1,1 @@
-{"version":"2.3.71", "notes":"Fixes & Optimizations", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.3.8", "notes":"Fixes & Optimizations", "discordLink":"https://discord.gg/teamsgg"}
