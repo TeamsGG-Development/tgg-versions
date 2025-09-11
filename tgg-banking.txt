@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"IMPORTANT UPDATE: Security patches.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.1.5", "notes":"IMPORTANT UPDATE: Security patches.", "discordLink":"https://discord.gg/teamsgg"}
