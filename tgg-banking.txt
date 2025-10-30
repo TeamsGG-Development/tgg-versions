@@ -1,1 +1,1 @@
-{"version":"1.2.1", "notes":"1.2.1 - Loans & Savings accounts / 1.1.5 - IMPORTANT UPDATE: Security patches.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.2.2", "notes":"1.2.2 - Loans & Savings accounts / 1.1.5 - IMPORTANT UPDATE: Security patches.", "discordLink":"https://discord.gg/teamsgg"}
