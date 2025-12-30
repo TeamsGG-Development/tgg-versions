@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Bug fixes in YSeries(v1.4.5) calls integration.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.0.6", "notes":"Bug fixes in YSeries(v1.4.6) calls integration.", "discordLink":"https://discord.gg/teamsgg"}
