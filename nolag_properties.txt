@@ -1,1 +1,1 @@
-{"version":"2.3.94", "notes":"Fixes & Optimizations", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.3.95", "notes":"Fixed furniture menu crashing while decorating. Other fixes & implementations", "discordLink":"https://discord.gg/teamsgg"}
