@@ -1,1 +1,1 @@
-{"version":"2.3.95", "notes":"Fixed furniture menu crashing while decorating. Other fixes & implementations", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.4.0", "notes":"Added Utilities & Living Systems, Added Physical Keys System, Added Property Marketplace System, Camera System Upgrade, Creation & Shell System, Furniture Items, and many more Fixes & Improvements", "discordLink":"https://discord.gg/teamsgg"}
