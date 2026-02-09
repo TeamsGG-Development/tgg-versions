@@ -1,1 +1,1 @@
-{"version":"2.4.0", "notes":"Added Utilities & Living Systems, Added Physical Keys System, Added Property Marketplace System, Camera System Upgrade, Creation & Shell System, Furniture Items, and many more Fixes & Improvements", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.4.1", "notes":"Bug fixes and improvements", "discordLink":"https://discord.gg/teamsgg"}
