@@ -1,1 +1,1 @@
-{"version":"1.3.2", "notes":"1.3.2 -> Fixed an issue with config loading. Several bug fixes. Added 17 loans exports.; 1.2.2 - Loans & Savings accounts / 1.1.5 - IMPORTANT UPDATE: Security patches.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.5.0", "notes":"1.5.0 -> Added 24 new hooks for society money, loans, cards, and ATM ; 1.3.2 -> Fixed an issue with config loading. Several bug fixes. Added 17 loans exports.;", "discordLink":"https://discord.gg/teamsgg"}
