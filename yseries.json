@@ -1,0 +1,10 @@
+{
+  "yseries": {
+    "version": "1.5.2",
+    "last_supported_version": "1.5.2",
+    "last_supported_version_date": "2026-04-15",
+    "changelog": {
+      "1.5.2": "Latest release"
+    }
+  }
+}
