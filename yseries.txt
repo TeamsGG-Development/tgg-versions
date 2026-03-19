@@ -1,1 +1,1 @@
-{"version":"1.6.0", "notes":""1.6.0": "Added build-in Payphones; YPhone apps redesign."", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.6.1", "notes":""1.6.1": "Added build-in Payphones; YPhone apps redesign."", "discordLink":"https://discord.gg/teamsgg"}
