@@ -1,10 +1,11 @@
 {
   "yseries": {
-    "version": "1.6.2",
-    "last_supported_version": "1.6.2",
+    "version": "1.6.3",
+    "last_supported_version": "1.6.3",
     "last_supported_version_date": "2026-03-28",
     "changelog": {
-      "1.6.2": "Added build-in Payphones; YPhone apps redesign."
+      "1.6.2": "Added build-in Payphones; YPhone apps redesign.",
+      "1.6.3": "Added support for slot games. Fixed several UI crash issues."
     }
   }
 }
