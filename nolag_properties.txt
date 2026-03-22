@@ -1,1 +1,1 @@
-{"version":"2.4.6", "notes":"Major shell system overhaul, new trash system, config tool updates, key management improvements, UI/localization enhancements, and multiple bug fixes (including shell loading on server start)", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.4.7", "notes":"Hotfix update addressing CCTV access issues, furniture duplication bug, Force Sale button fix, and added rent cancellation option via /allproperties menu", "discordLink":"https://discord.gg/teamsgg"}
