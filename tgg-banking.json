@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "last_supported_version": "1.5.0",
-  "last_supported_version_date": "2026-02-20",
+  "version": "1.5.1",
+  "last_supported_version": "1.5.1",
+  "last_supported_version_date": "2026-04-08",
   "changelog": {
-      "1.5.0": "Added 24 new hooks for society money, loans, cards, and ATM"
+      "1.5.1": "Added 24 new hooks for society money, loans, cards, and ATM"
   }
 }
