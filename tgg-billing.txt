@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"IMPORTANT UPDATE! Fixed force payments & added security checks to prevent security vulnerabilities.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"1.4.2", "notes":"v1.4.2 -> Fixes billing tablet/prop spam and overlapping main vs quick-create UI, adds keybind open debounce, corrects tgg-banking C2C ledger args, and fixes the shared DebugTable call.; 1.4.1 -> IMPORTANT UPDATE! Fixed force payments & added security checks to prevent security vulnerabilities.", "discordLink":"https://discord.gg/teamsgg"}
