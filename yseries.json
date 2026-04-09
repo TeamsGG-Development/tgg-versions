@@ -1,12 +1,13 @@
 {
   "yseries": {
-    "version": "1.6.4",
-    "last_supported_version": "1.6.4",
-    "last_supported_version_date": "2026-03-31",
+    "version": "1.7.0",
+    "last_supported_version": "1.7.0",
+    "last_supported_version_date": "2026-04-16",
     "changelog": {
       "1.6.2": "Added build-in Payphones; YPhone apps redesign.",
       "1.6.3": "Added support for slot games. Fixed several UI crash issues.",
-      "1.6.4": "Smoother notifications and lock screen fixes, plus YPay search, Instashots and contact bugfixes, and small performance tweaks."
+      "1.6.4": "Smoother notifications and lock screen fixes, plus YPay search, Instashots and contact bugfixes, and small performance tweaks.",
+      "1.7.0": "New Apps -> SpopFinder(game), Voice Recorder, Browser, Lookup(moderation). Make home screen folders and more UI redesigns."
     }
   }
 }
