@@ -1,1 +1,1 @@
-{"version":"2.8.1", "notes":"2.8.1 ->  Fixed a NUI exploit.", "discordLink":"https://discord.gg/teamsgg"}
+{"version":"2.9.0", "notes":"2.9.0 -> Added two new minigames.; 2.8.1 ->  Fixed a NUI exploit.", "discordLink":"https://discord.gg/teamsgg"}
