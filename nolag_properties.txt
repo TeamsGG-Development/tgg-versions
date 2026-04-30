@@ -1,5 +1,5 @@
 {
-  "version": "2.4.10",
-  "notes": "Fixes furniture sell issue, ESX grade error, adds keychain system, locksmith items, dispatch alerts, and tenant/society logic updates.",
+  "version": "2.4.11",
+  "notes": "Hotfix resolving PlayerData-related errors.",
   "discordLink": "https://discord.gg/teamsgg"
 }
