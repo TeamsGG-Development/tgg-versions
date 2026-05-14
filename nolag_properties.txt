@@ -1,5 +1,5 @@
 {
-  "version": "2.4.11",
-  "notes": "Hotfix resolving PlayerData-related errors.",
+  "version": "2.4.12",
+  "notes": "Breach alerts, lockpick & entry coords overhaul.",
   "discordLink": "https://discord.gg/teamsgg"
 }
