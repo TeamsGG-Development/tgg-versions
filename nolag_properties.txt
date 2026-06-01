@@ -1,5 +1,7 @@
 {
   "version": "2.4.12",
   "notes": "Breach alerts, lockpick & entry coords overhaul.",
+  "betaVersion": "2.5.0-beta.1",
+  "betaNotes": "New presets system, optimisations and small fixes.",
   "discordLink": "https://discord.gg/teamsgg"
 }
