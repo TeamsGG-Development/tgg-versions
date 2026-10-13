@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Added Payphone integration; Bug fixes in YSeries(v1.4.6) calls integration.", "discordLink":"https://discord.gg/teamsgg"}
+{"discordLink":"https://discord.gg/teamsgg","version":"1.0.10","notes":"Open Source is now available with YSeries: https://www.teamsgg.dev/scripts/yseries#buy. Removed Sentry and cleaned up outdated comments and unused code."}
