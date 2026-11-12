@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "changelog": {
-    "1.0.1": "Unified Finance banking and billing resource."
+    "1.0.0": "Initial release of TGG Finance: unified banking and billing."
   }
 }
