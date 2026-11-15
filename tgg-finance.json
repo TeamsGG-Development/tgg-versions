@@ -1,7 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "changelog": {
     "1.0.0": "Initial release of TGG Finance: unified banking and billing.",
-    "1.0.1": "Restrict /finance to admins; restore Banking default colors and migration precedence; fix invisible F9 and incoming invoice popups; prevent billing loading flashes and stale invoice results."
+    "1.0.1": "Restrict /finance to admins; restore Banking default colors and migration precedence; fix invisible F9 and incoming invoice popups; prevent billing loading flashes and stale invoice results.",
+    "1.0.2": "Add the TGG Finance license (LICENSE.txt) to both editions, at the package root and inside the resource folder."
   }
 }
